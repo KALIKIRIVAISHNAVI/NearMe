@@ -26,6 +26,8 @@ Execute the programs and publish them.
 
 ## CODE
 ```
+map.html
+
 <html>
 <head>
 <title>MAP</title>
